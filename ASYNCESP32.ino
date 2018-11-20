@@ -1,8 +1,8 @@
 #include "WiFi.h"
 #include "ESPAsyncWebServer.h"
  
-const char* ssid = "LKK";
-const char* password = "173173173";
+const char* ssid = "....";
+const char* password = "....";
  
 AsyncWebServer server(80);
 
